@@ -1,4 +1,4 @@
-# tech_fest_app
+# TechFestApp
 
 NTU SCSE x GIC Techfest Second Runner up. 
 
